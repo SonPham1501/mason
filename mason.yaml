@@ -11,6 +11,9 @@ bricks:
 
   screen_with_provider:
     path: bricks/screen_with_provider
+
+  screen:
+    path: bricks/screen
   # Bricks can also be imported via git url.
   # Uncomment the following lines to import
   # a brick from a remote git url.

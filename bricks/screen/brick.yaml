@@ -23,6 +23,6 @@ environment:
 vars:
   name:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: Enter the name of your screen. [lowercase only]
+    default: my screen
+    prompt: What is the screen name [lowercase only]?
