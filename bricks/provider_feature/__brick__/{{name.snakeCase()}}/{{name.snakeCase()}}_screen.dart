@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'provider/{{name.snakeCase()}}_provider.dart';
 
 class {{name.pascalCase()}}Screen extends StatefulWidget {
-  {{name.pascalCase()}}Screen({Key? key}) : super(key: key);
+  const {{name.pascalCase()}}Screen({Key? key}) : super(key: key);
 
   @override
   State<{{name.pascalCase()}}Screen> createState() => _{{name.pascalCase()}}ScreenState();
