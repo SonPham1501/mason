@@ -1,1 +1,1 @@
-{"bricks":{"stl":{"path":"bricks/stl"},"stf":{"path":"bricks/stf"},"screen_with_provider":{"path":"bricks/screen_with_provider"}}}
+{"bricks":{"stl":{"path":"bricks/stl"},"sizescreen":{"path":"bricks/sizescreen"},"stf":{"path":"bricks/stf"},"screen_with_provider":{"path":"bricks/screen_with_provider"},"screen":{"path":"bricks/screen"}}}
